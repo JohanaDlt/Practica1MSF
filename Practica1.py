@@ -39,7 +39,7 @@ print(f"Funcion de transferencia del sistema: {sys}")
 # Componentes del controlador
 kI = 525.5097
 Cr= 1e-6
-Re = 1/kI*Cr
+Re = 1/(kI*Cr)
 print(f"El valor de la capacitancia propuesta de kI es de {kI} ")
 print (f"El valor de la capacitancia de Cr es de {Cr} Faradios")
 print (f"El valor de la resistencia de Re es de {Re} ohms")
