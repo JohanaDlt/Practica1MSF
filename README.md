@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Johana Jazmín De La Torre Gómez \[22211751]; L22211751@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
